@@ -1,7 +1,7 @@
 <h1 align="center">Jagmohan Singh</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaggi47&label=Profile%20views&color=F28500&style=plastic" alt="jaggi47" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/348324/screenshots/6588798/05-06-ccslice.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn140.picsart.com/321303280218201.gif?to=min&r=640">
 <!-- <img align="right" alt="GIF" height="160px" src="https://cdn140.picsart.com/321303280218201.gif?to=min&r=640" />
  -->
 - 📫 need solution? **mr.ranveer7@gmail.com**
