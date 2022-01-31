@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn140.picsart.com/321303280218201.gif?to=min&r=640">
 <!-- <img align="right" alt="GIF" height="160px" src="https://cdn140.picsart.com/321303280218201.gif?to=min&r=640" />
  -->
-- 📫 need solution? **iamjagmohansingh17@gmail.com**
+- 📫 need solution? <p><a href="mailto:iamjagmohansingh17@gmail.com">iamjagmohansingh17@gmail.com</a></p>
 
 
 <h3 align="left">Connect with me:</h3>
