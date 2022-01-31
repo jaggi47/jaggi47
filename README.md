@@ -11,7 +11,7 @@
 <p align="left">
 <!-- <a href="https://twitter.com/ranveer_13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jaggi47" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/jagmohan-singh-166145121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jaggi" height="30" width="40" /></a>
-<a href="https://instagram.com/ranveer_singh.13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jaggi47" height="30" width="40" /></a>
+<a href="https://instagram.com/iamjaggisingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jaggi47" height="30" width="40" /></a>
 </p>
 
 <!--<h3 align="left">Languages and Tools:</h3>
